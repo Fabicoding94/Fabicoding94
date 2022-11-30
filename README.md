@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **fabiolabarone.fb94@gmail.com**
 
-- 💻 I started my coding adventure in June 2022**
+- 💻 I started my coding adventure in June 2022
 
 
 
