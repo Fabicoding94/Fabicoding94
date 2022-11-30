@@ -3,15 +3,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabicoding94&label=Profile%20views&color=0e75b6&style=flat" alt="fabicoding94" /> </p></div>
 
 <div> <p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Test Image" style="width: auto; height: 150px;"/></p>
-
 - 🔭 I’m currently working on [MinimalGreenApp-social](https://github.com/Fabicoding94/MinimalGreenApp-social)
-
 - 🌱 I’m currently learning **Java, Spring Boot, TypeScript, Angular**
-
 - 🤝 I’m looking for help with **External API calls**
-
 - 📫 How to reach me **fabiolabarone.fb94@gmail.com**
-
 - 💻 I started my coding adventure in June 2022
 
 <h3 align="left">Languages and Tools:</h3>
