@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring full-stack web developer from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabicoding94&label=Profile%20views&color=0e75b6&style=flat" alt="fabicoding94" /> </p>
-<img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="Test Image" style="width: auto; height: 200px;"/>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Test Image" style="width: auto; height: 200px;"/>
 
 - 🔭 I’m currently working on [MinimalGreenApp-social](https://github.com/Fabicoding94/MinimalGreenApp-social)
 
