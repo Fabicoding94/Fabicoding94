@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fabiola Barone</h1>
+<h1 align="center">Hi 👋, I'm Fabi</h1>
 <h3 align="center">An aspiring full-stack web developer from Italy</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabicoding94&label=Profile%20views&color=0e75b6&style=flat" alt="fabicoding94" /> </p></div>
 
